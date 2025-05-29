@@ -17,7 +17,6 @@ Can you handle the heat or will you crash and burn?
 ### 2️⃣ Download the Game
 
 Clone the repo:
-```bash
 git clone https://github.com/your-username/guess-the-damn-number
 cd guess-the-damn-number
 Or just download the .py file directly.
@@ -25,16 +24,8 @@ Or just download the .py file directly.
 3️⃣ Run the Game
 Open a terminal in the project folder and type:
 
-bash
-Copy
-Edit
 python guess-the-number.py
-Or if python doesn’t work:
 
-bash
-Copy
-Edit
-python3 guess-the-number.py
 
 
 🎮 Game Rules
