@@ -3,6 +3,12 @@
 
 Ever wondered what happens when you smash a rocket launch, Morse code beeps, ASCII cubes, and a hacker terminal into a single Bash script?  
 
+No?
+
+WELL, Bash is cool.
+
+SOOOOOOO.....
+
 **YOU GET THIS MONSTROSITY.**  
 
 This ain't your grandpa’s Bash script.  
