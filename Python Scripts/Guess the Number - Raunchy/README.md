@@ -62,7 +62,7 @@ MIT License.
 Use at your own risk. If this game hurts your feelings, go touch some grass.
 
 🤘 Credits
-Made with 🍺, ☕, and an unhealthy sense of humor by [Your Name].
+Made with 🍺, ☕, and an unhealthy sense of humor by Mcrsft.
 
 📌 Note
 Want to make the game better?
