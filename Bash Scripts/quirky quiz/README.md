@@ -10,12 +10,12 @@ A fun, interactive quiz game in Bash! Test your knowledge in **Weather**, **Geog
 
 git clone this repository
 cd quirky quiz
-Or just save the quiz_game.sh file from this repository.
+Or just save the quirky-quiz.sh file from this repository.
 
 2️⃣ Make it executable and run:
 
-chmod +x quiz_game.sh
-./quiz_game.sh
+chmod +x quirky-quiz.sh
+./quirky-quiz.sh
 3️⃣ Pick a category and answer 10 questions!
 
 📚 Categories
